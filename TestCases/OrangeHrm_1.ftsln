@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.1.3.0-UFT_14
+Project("") = "OrangeHrm", "OrangeHrm\Test.tsp", "E40CBB43-8869-4486-B777-89EEE682C513"
+	ProjectSection(ProjectMetadata) = HP.UFT.ProjectSystem.Dynamic.ProjectMetadata
+		PathInformation = C:\uft\QTP-Hybrid-Framework\QTP-Hybrid-Framework\TestCases\OrangeHrm\Test.tsp
+		Keyword = QTP
+		OpenAsReadOnly = False
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		E40CBB43-8869-4486-B777-89EEE682C513.Debug|Any CPU.Build.0 = Debug|Any CPU
+		E40CBB43-8869-4486-B777-89EEE682C513.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		E40CBB43-8869-4486-B777-89EEE682C513.Release|Any CPU.Build.0 = Release|Any CPU
+		E40CBB43-8869-4486-B777-89EEE682C513.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(Function Libraries) = postProject
+		orangehrm = C:\uft\QTP-Hybrid-Framework\QTP-Hybrid-Framework\Resources\GenericFL\orangehrm.qfl
+	EndGlobalSection
+EndGlobal
